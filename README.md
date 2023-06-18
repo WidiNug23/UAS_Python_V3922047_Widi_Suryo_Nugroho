@@ -1,1 +1,1 @@
-uvthuig huiehbuirhrhuir
+Saya melakukan scrapping di website bukalapak tepatnya di toko barokah_kamera. Pada halaman toko tersebut merupakan kategori kamera. Di halaman tersebut terdapat title untuk produk produk yang dijual. terdapat pula harga dari barang barang yang dijual. Saya melakukan scrapping di halaman 1 hingga halaman 10. Data yang saya scrapping yaitu, halaman, title, dan price atau harga. Jumlah data yang berhasil saya ambil berjumlah 160 data. Untuk title menggunakan class c-product-card__name dan untuk price menggunakan class c-product-price-normal.
